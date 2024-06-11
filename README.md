@@ -1,4 +1,28 @@
 # Certifications
+### Google Data Analytics Certificate - Coursera
+[Google Data Analytics Certificate.pdf](https://github.com/user-attachments/files/15786889/Google.Data.Analytics.Certificate.pdf)
+
+### Foundations of data - Coursera
+[Foundations of data Certificate.pdf](https://github.com/user-attachments/files/15786887/Foundations.of.data.Certificate.pdf)
+
+### Data preparation in power Bi - Coursera
+[Data Preparation in power Bi.pdf](https://github.com/user-attachments/files/15786901/Data.Preparation.in.power.Bi.pdf)
+
+### Data analysis with R - Coursera
+[Data Analysis with R Certificate.pdf](https://github.com/user-attachments/files/15786900/Data.Analysis.with.R.Certificate.pdf)
+
+### Ask questions for data driven decision making - Coursera
+[Ask questions for data driven decision making certifcate.pdf](https://github.com/user-attachments/files/15786899/Ask.questions.for.data.driven.decision.making.certifcate.pdf)
+
+### Analyze data to answer questions - Coursera
+[Analyza data to answer questions Certificate.pdf](https://github.com/user-attachments/files/15786898/Analyza.data.to.answer.questions.Certificate.pdf)
+
+### Share art through visualization - Coursera
+[Share art through Visualiztion Certificate.pdf](https://github.com/user-attachments/files/15786897/Share.art.through.Visualiztion.Certificate.pdf)
+
+### Process data from dirty to clean - Coursera
+[Process dirty from dirty to clean Certificate.pdf](https://github.com/user-attachments/files/15786896/Process.dirty.from.dirty.to.clean.Certificate.pdf)
+
 ### Tableau certficate - Udemy
 
 ![Udemy Tableau Certificate 2](https://github.com/SEYI-FASE/Certifications/assets/134503256/11ee794c-76a2-4313-9fc6-ded4a9a36292)
