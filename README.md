@@ -23,7 +23,7 @@
 ### Process data from dirty to clean - Coursera
 ![Process data from dirty to clean](https://github.com/SEYI-FASE/Certifications/assets/134503256/72a50f3c-4974-4961-8478-369d4da7fd96)
 
-Data Analytics (certificate of completion) - Terra learning *(Side hustle)
+Data Analytics (certificate of completion) - Terra learning(Side hustle)
 ![Terra learning- sidehustle](https://github.com/SEYI-FASE/Certifications/assets/134503256/8329990e-475d-4d04-92b0-2453d8327733)
 
 ### Tableau certficate - Udemy
