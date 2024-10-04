@@ -1,4 +1,8 @@
 # Certifications
+### Cerificate of completion - Forage
+![PWC.Internship.cert.pdf](https://github.com/user-attachments/files/17259033/PWC.Internship.cert.pdf)
+![MyXvBcppsW2FkNYCX_Tata Group_f23MYXvnRfx8zd5kv_1725445609126_completion_certificate.pdf](https://github.com/user-attachments/files/17259041/MyXvBcppsW2FkNYCX_Tata.Group_f23MYXvnRfx8zd5kv_1725445609126_completion_certificate.pdf)
+
 ### Google Data Analytics Certificate - Coursera
 ![google data](https://github.com/SEYI-FASE/Certifications/assets/134503256/0a4e33fe-9892-415a-a82e-901c87650fe1)
 
